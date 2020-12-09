@@ -1,0 +1,23 @@
+﻿  Ball.cpp
+c:\users\simun\source\repos\breakout\breakout\ball.cpp(102): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\simun\source\repos\breakout\breakout\ball.cpp(105): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  BoxCollider.cpp
+  Brick.cpp
+  BrickTypes.cpp
+  Game.cpp
+c:\users\simun\source\repos\breakout\breakout\game.cpp(44): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameObject.cpp
+  Level.cpp
+  main.cpp
+  Player.cpp
+  SceneManager.cpp
+  Sound.cpp
+  Text.cpp
+  TextureManager.cpp
+  tinyxml2.cpp
+  Wall.cpp
+  XMLLoader.cpp
+  Generating code
+  All 1125 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Breakout.vcxproj -> C:\Users\Simun\source\repos\Breakout\x64\Release\Breakout.exe
